@@ -1,1 +1,1 @@
-# mediawiki_api_login_python
+# mediawiki api login with python
